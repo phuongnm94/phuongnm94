@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: nguyenphuong.cnbt@gmail.com
 -->
 
-- :relieved: I’m currently studying Semantic Parsing (mapping a natural language to semantic logic representation), Spoken Language Understanding, Neural Machine Translation, QA, Sentiment, etc. in Natural Language Processing.
+- :relieved: I’m currently studying NeuroSymbolic approaches for Logical Reasoning, Semantic Parsing (mapping a natural language to semantic logic representation), Spoken Language Understanding, Neural Machine Translation, QA, Sentiment, etc. in Natural Language Processing.
 - 📫 How to reach me: nguyenphuong.cnbt@gmail.com
 
 [![stat](https://github-readme-stats.vercel.app/api?username=phuongnm94&show_icons=true&count_private=true)](https://github.com/phuongnm94/phuongnm94) 
